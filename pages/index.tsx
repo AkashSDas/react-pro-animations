@@ -1,11 +1,5 @@
-import PageTransition from "../components/page-transition";
-
 function Index() {
-  return (
-    <main>
-      <PageTransition />
-    </main>
-  );
+  return <main></main>;
 }
 
 export default Index;
